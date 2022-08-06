@@ -1,1 +1,0 @@
-user_id,doc_id,uuid,enter queue time,worker start,worker finish,success/fail,error_message
